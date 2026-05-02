@@ -1,0 +1,896 @@
+{
+    "description": "Sosyal Veri Bilimi kitap bölümleri ve yazarları",
+    "sections": [
+        {
+            "title": "Foundations",
+            "chapters": [1,2,3,4,5,6]
+        },
+        {
+            "title": "Methods: Novel data sources",
+            "chapters": [7,8,9,10,11,12]
+        },
+        {
+            "title": "Methods: Social network analysis",
+            "chapters": [13,14,15,16]
+        },
+        {
+            "title": "Methods: Agent-based modeling",
+            "chapters": [17,18]
+        },
+        {
+            "title": "Methods: Text analysis",
+            "chapters": [19,20,21]
+        },
+        {
+            "title": "Methods: Experimental methods",
+            "chapters": [22,23,24]
+        },
+        {
+            "title": "Applications: Politics",
+            "chapters": [25,26,27,28]
+        },
+        {
+            "title": "Applications: Justice and equality",
+            "chapters": [29,30,31,32]
+        },
+        {
+            "title": "Applications: Communication and information dynamics",
+            "chapters": [33,34,35,36]
+        },
+        {
+            "title": "Applications: Health",
+            "chapters": [37,38,39]
+        },
+        {
+            "title": "Applications: Human, group, and social dynamics",
+            "chapters": [40,41,42,43,44]
+        },
+        {
+            "title": "Applications: Economy and finance",
+            "chapters": [45,46,47]
+        },
+        {
+            "title": "Applications: Creativity and intelligence",
+            "chapters": [48,49,50,51,52,53]
+        },
+        {
+            "title": "Applications: Online communities, knowledge, and education",
+            "chapters": [54,55,56,57,58]
+        }
+
+    ],
+    "groups": [
+        {
+            "chapter": 1,
+            "label": "My personal and our collective journey in computational social science",
+            "authors": [
+                {
+                    "name": "Taha Yasseri",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 2,
+            "label": "Computational social science: past, present, and future",
+            "authors": [
+                {
+                    "name": "Duncan J. Watts",
+                    "orcid": ""
+                },
+                {
+                    "name": "David Lazer",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 3,
+            "label": "How computational social science can help to improve public policymaking",
+            "authors": [
+                {
+                    "name": "Helen Margetts",
+                    "orcid": ""
+                },
+                {
+                    "name": "Cosmina Dorobantu",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 4,
+            "label": "Computational social science, artificial intelligence, and the future of media theory",
+            "authors": [
+                {
+                    "name": "Ralph Schroeder",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 5,
+            "label": "On the intersection of analytical sociology and computational social science",
+            "authors": [
+                {
+                    "name": "Martin Arvidsson",
+                    "orcid": ""
+                },
+                {
+                    "name": "Peter Hedström",
+                    "orcid": ""
+                },
+                {
+                    "name": "Benjamin F. Jarvis",
+                    "orcid": ""
+                },
+                {
+                    "name": "Marc Keuschnigg",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 6,
+            "label": "Computational inductive research",
+            "authors": [
+                {
+                    "name": "Laura K. Nelson",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 7,
+            "label": "Using data from social media for computational social science research",
+            "authors": [
+                {
+                    "name": "Katrin Weller",
+                    "orcid": ""
+                },
+                {
+                    "name": "Indira Sen",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 8,
+            "label": "Text data and natural language processing",
+            "authors": [
+                {
+                    "name": "Dirk Hovy",
+                    "orcid": ""
+                },
+                {
+                    "name": "Margot Gerondeau",
+                    "orcid": ""
+                },
+                {
+                    "name": "Jan Globisz",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 9,
+            "label": "Mobile social networks: using WhatsApp data for computational social science research",
+            "authors": [
+                {
+                    "name": "Kiran Garimella",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 10,
+            "label": "Social media data donation and digital tracking",
+            "authors": [
+                {
+                    "name": "Felicia Loecherbach",
+                    "orcid": ""
+                },
+                {
+                    "name": "Wouter van Atteveldt",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 11,
+            "label": "Open data in computational social science research",
+            "authors": [
+                {
+                    "name": "Luis-Daniel Ibáñez",
+                    "orcid": ""
+                },
+                {
+                    "name": "Johanna Walker",
+                    "orcid": ""
+                },
+                {
+                    "name": "Elena Simperl",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 12,
+            "label": "An online picture is worth a thousand words",
+            "authors": [
+                {
+                    "name": "Federico Botta",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 13,
+            "label": "Temporal networks of social interactions",
+            "authors": [
+                {
+                    "name": "Jari Saramäki",
+                    "orcid": ""
+                },
+                {
+                    "name": "Petter Holme",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 14,
+            "label": "Multilayer social networks",
+            "authors": [
+                {
+                    "name": "Mikko Kivelä",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 15,
+            "label": "Strong friendship paradox in social networks",
+            "authors": [
+                {
+                    "name": "Kristina Lerman",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 16,
+            "label": "Estimating causal effects in experiments with network spillovers",
+            "authors": [
+                {
+                    "name": "Stephanie Zonszein",
+                    "orcid": ""
+                },
+                {
+                    "name": "P. M. Aronow",
+                    "orcid": ""
+                },
+                {
+                    "name": "Cyrus Samii",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 17,
+            "label": "Agent-based models and networks",
+            "authors": [
+                {
+                    "name": "Andreas Flache",
+                    "orcid": ""
+                },
+                {
+                    "name": "Marijn A. Keijzer",
+                    "orcid": ""
+                },
+                {
+                    "name": "Michael Mäs",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 18,
+            "label": "Exploring theory with agent-based modeling and simulation",
+            "authors": [
+                {
+                    "name": "Jan Lorenz",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 19,
+            "label": "Learning the social pragmatics of language",
+            "authors": [
+                {
+                    "name": "Luca Maria Aiello",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 20,
+            "label": "Learning with weak supervision for computational social science",
+            "authors": [
+                {
+                    "name": "Diyi Yang",
+                    "orcid": ""
+                },
+                {
+                    "name": "Caleb Ziems",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 21,
+            "label": "Computational text sentiment analysis: methods, applications, and challenges",
+            "authors": [
+                {
+                    "name": "Mike Thelwall",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 22,
+            "label": "From online experiments to big experimental data",
+            "authors": [
+                {
+                    "name": "Stefano Balietti",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 23,
+            "label": "Behavioral experiments in computational social science",
+            "authors": [
+                {
+                    "name": "Vincent Buskens",
+                    "orcid": ""
+                },
+                {
+                    "name": "Rense Corten",
+                    "orcid": ""
+                },
+                {
+                    "name": "Wojtek Przepiorka",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 24,
+            "label": "Natural experiments in computational social science: principles, methods, and applications",
+            "authors": [
+                {
+                    "name": "David J. Harding",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 25,
+            "label": "Analyzing political bots on Twitter: an introduction",
+            "authors": [
+                {
+                    "name": "Simon Lindgren",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 26,
+            "label": "Social media and electoral prediction: ten years after",
+            "authors": [
+                {
+                    "name": "Daniel Gayo-Avello",
+                    "orcid": ""
+                },
+                {
+                    "name": "Andreas Jungherr",
+                    "orcid": ""
+                },
+                {
+                    "name": "Gonzalo Rivero",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 27,
+            "label": "Computational social science approaches to sustainability and climate change",
+            "authors": [
+                {
+                    "name": "Viktoria Spaiser",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 28,
+            "label": "Opinion dynamics in social networks: from models to data",
+            "authors": [
+                {
+                    "name": "Antonio F. Peralta",
+                    "orcid": ""
+                },
+                {
+                    "name": "János Kertész",
+                    "orcid": ""
+                },
+                {
+                    "name": "Gerardo Iñiguez",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 29,
+            "label": "Computational approaches to the study of corruption",
+            "authors": [
+                {
+                    "name": "Isabela Villamil",
+                    "orcid": ""
+                },
+                {
+                    "name": "János Kertész",
+                    "orcid": ""
+                },
+                {
+                    "name": "Johannes Wachs",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 30,
+            "label": "Social movements in the digital age",
+            "authors": [
+                {
+                    "name": "Adina Gitomer",
+                    "orcid": ""
+                },
+                {
+                    "name": "Alyssa Smith",
+                    "orcid": ""
+                },
+                {
+                    "name": "Hana Chalmers",
+                    "orcid": ""
+                },
+                {
+                    "name": "Larissa Doroshenko",
+                    "orcid": ""
+                },
+                {
+                    "name": "Robin A. Lange",
+                    "orcid": ""
+                },
+                {
+                    "name": "Alex Madaras",
+                    "orcid": ""
+                },
+                {
+                    "name": "Ryan J. Gallagher",
+                    "orcid": ""
+                },
+                {
+                    "name": "Tamanna Urmi",
+                    "orcid": ""
+                },
+                {
+                    "name": "Brooke Foucault Welles",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 31,
+            "label": "Minorities in networks and algorithms",
+            "authors": [
+                {
+                    "name": "Fariba Karimi",
+                    "orcid": ""
+                },
+                {
+                    "name": "Marcos Oliveira",
+                    "orcid": ""
+                },
+                {
+                    "name": "Markus Strohmaier",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 32,
+            "label": "Computing gender",
+            "authors": [
+                {
+                    "name": "Orsolya Vásárhelyi",
+                    "orcid": ""
+                },
+                {
+                    "name": "Siân Brooke",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 33,
+            "label": "Social bots: detection and challenges",
+            "authors": [
+                {
+                    "name": "Kai-Cheng Yang",
+                    "orcid": ""
+                },
+                {
+                    "name": "Onur Varol",
+                    "orcid": ""
+                },
+                {
+                    "name": "Alexander C. Nwala",
+                    "orcid": ""
+                },
+                {
+                    "name": "Mohsen Sayyadiharikandeh",
+                    "orcid": ""
+                },
+                {
+                    "name": "Emilio Ferrara",
+                    "orcid": ""
+                },
+                {
+                    "name": "Alessandro Flammini",
+                    "orcid": ""
+                },
+                {
+                    "name": "Filippo Menczer",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 34,
+            "label": "Communication during crisis: examining the dynamics of rumors online",
+            "authors": [
+                {
+                    "name": "Emma S. Spiro",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 35,
+            "label": "Quantifying and modeling language change",
+            "authors": [
+                {
+                    "name": "Eduardo G. Altmann",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 36,
+            "label": "Societal algorithmification and its computational measurement",
+            "authors": [
+                {
+                    "name": "Martin Hilbert",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 37,
+            "label": "Employing social media to improve mental health outcomes",
+            "authors": [
+                {
+                    "name": "Munmun De Choudhury",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 38,
+            "label": "Modeling the spreading of infectious diseases in the digital age",
+            "authors": [
+                {
+                    "name": "Nicola Perra",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 39,
+            "label": "Computational demography and health",
+            "authors": [
+                {
+                    "name": "Zack W. Almquist",
+                    "orcid": ""
+                },
+                {
+                    "name": "Courtney Allen",
+                    "orcid": ""
+                },
+                {
+                    "name": "Ihsan Kahveci",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 40,
+            "label": "An overview of the science of success",
+            "authors": [
+                {
+                    "name": "Xindi Wang",
+                    "orcid": ""
+                },
+                {
+                    "name": "Alexander J. Gates",
+                    "orcid": ""
+                },
+                {
+                    "name": "Albert-László Barabási",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 41,
+            "label": "Big love: computational approaches to the study of large-scale patterns in online dating behavior",
+            "authors": [
+                {
+                    "name": "Liesel L. Sharabi",
+                    "orcid": ""
+                },
+                {
+                    "name": "Marco Dehnert",
+                    "orcid": ""
+                },
+                {
+                    "name": "Callie Graham",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 42,
+            "label": "Universalities in human mobility",
+            "authors": [
+                {
+                    "name": "Sune Lehmann",
+                    "orcid": ""
+                },
+                {
+                    "name": "Laura Alessandretti",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 43,
+            "label": "Quantifying the temporal dynamics of collective memory and attention in social systems",
+            "authors": [
+                {
+                    "name": "Cristian Candia",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 44,
+            "label": "Measuring and modeling bursty human phenomena",
+            "authors": [
+                {
+                    "name": "Márton Karsai",
+                    "orcid": ""
+                },
+                {
+                    "name": "Hang-Hyun Jo",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 45,
+            "label": "A computational social science approach to urban economies",
+            "authors": [
+                {
+                    "name": "Neave O’Clery",
+                    "orcid": ""
+                },
+                {
+                    "name": "Andres Gomez-Lievano",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 46,
+            "label": " Exploring blockchain networks: decentralization, trust, and social dynamics",
+            "authors": [
+                {
+                    "name": "Raffaele Cristodaro",
+                    "orcid": ""
+                },
+                {
+                    "name": "Carlo Campajola",
+                    "orcid": ""
+                },
+                {
+                    "name": "Claudio J. Tessone",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 47,
+            "label": "Cooperation, a field-experimental approach",
+            "authors": [
+                {
+                    "name": "Delia Baldassarri",
+                    "orcid": ""
+                },
+                {
+                    "name": "Johanna Gereke",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 48,
+            "label": "Collaborative creativity as a field within computational social science",
+            "authors": [
+                {
+                    "name": "Balazs Vedres",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 49,
+            "label": "Studying collective intelligence in the lab",
+            "authors": [
+                {
+                    "name": "Abdullah Almaatouq",
+                    "orcid": ""
+                },
+                {
+                    "name": "Joshua Aaron Becker",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 50,
+            "label": "Hybrid intelligence: combining collective and artificial intelligence for adaptive control",
+            "authors": [
+                {
+                    "name": "Niccolò Pescetelli",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 51,
+            "label": "The statistical relationship between scientific prizes and the dynamics of careers and topic development",
+            "authors": [
+                {
+                    "name": "Yifang Ma",
+                    "orcid": ""
+                },
+                {
+                    "name": "Ching Jin",
+                    "orcid": ""
+                },
+                {
+                    "name": "Brian Uzzi",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 52,
+            "label": "Science of science: citation models and research evaluation",
+            "authors": [
+                {
+                    "name": "Vincent A. Traag",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 53,
+            "label": "Computational sociology of humans and machines: conflict and collaboration",
+            "authors": [
+                {
+                    "name": "Taha Yasseri",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 54,
+            "label": "Shocks in crowds, networks, and online communities",
+            "authors": [
+                {
+                    "name": "Danaja Maldeniya",
+                    "orcid": ""
+                },
+                {
+                    "name": "Daniel M. Romero",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 55,
+            "label": "Unpacking time in online behaviors: a temporal framework for computational social science",
+            "authors": [
+                {
+                    "name": "Tai-Quan Peng",
+                    "orcid": ""
+                },
+                {
+                    "name": "Jonathan J. H. Zhu",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 56,
+            "label": "Navigating knowledge: patterns and insights from Wikipedia consumption",
+            "authors": [
+                {
+                    "name": "Tiziano Piccardi",
+                    "orcid": ""
+                },
+                {
+                    "name": "Robert West",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 57,
+            "label": "Understanding and improving social factors in education: a computational social science approach",
+            "authors": [
+                {
+                    "name": "Nabeel Gillani",
+                    "orcid": ""
+                },
+                {
+                    "name": "Rebecca Eynon",
+                    "orcid": ""
+                }
+            ]
+        },
+        {
+            "chapter": 58,
+            "label": "Interconnectedness in education systems",
+            "authors": [
+                {
+                    "name": "Cristian Candia",
+                    "orcid": ""
+                },
+                {
+                    "name": "Javier Pulgar",
+                    "orcid": ""
+                },
+                {
+                    "name": "Flávio L. Pinheiro",
+                    "orcid": ""
+                }
+            ]
+        }
+    ]
+}

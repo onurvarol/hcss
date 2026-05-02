@@ -1,0 +1,118 @@
+Stephanie Zonszein,0000-0003-1392-0124,orcid
+Kiran Garimella,0000-0002-6212-5736,orcid
+Liesel L. Sharabi,0000-0002-0890-6806,openalex
+Alexander J. Gates,0000-0003-0099-7480,openalex
+Johanna Gereke,0000-0002-1058-9651,orcid
+Emilio Ferrara,0000-0002-1942-2831,orcid
+Antonio F. Peralta,0000-0002-5118-5725,openalex
+Felicia Loecherbach,0000-0003-2637-613X,orcid
+Ihsan Kahveci,0000-0003-0795-7246,orcid
+Carlo Campajola,0000-0003-1545-522X,orcid
+Jonathan J. H. Zhu,0000-0001-6173-6941,orcid
+Nicola Perra,0000-0002-5559-3064,orcid
+Markus Strohmaier,0000-0002-5485-5720,orcid
+Stefano Balietti,0000-0002-6056-6765,orcid
+Tamanna Urmi,0000-0001-6897-2365,orcid
+Brooke Foucault Welles,0000-0002-4155-8815,orcid
+Brian Uzzi,0000-0001-6855-2854,orcid
+Vincent A. Traag,0000-0003-3170-3879,openalex
+Javier Pulgar,0000-0003-0325-7306,orcid
+David Lazer,0000-0002-7991-9110,orcid
+Jan Lorenz,0000-0002-5547-7848,orcid
+Michael Mäs,0000-0001-9416-3211,fix
+Abdullah Almaatouq,0000-0002-8467-9123,orcid
+Tai-Quan Peng,0000-0002-2588-7491,orcid
+Mohsen Sayyadiharikandeh,None,openalex
+Mike Thelwall,0000-0001-6065-205X,orcid
+Isabela Villamil,0009-0006-1566-4581,orcid
+Andreas Flache,0000-0002-8276-8819,orcid
+Orsolya Vásárhelyi,0000-0001-6326-0617,fix
+Niccolò Pescetelli,0000-0002-8826-2202,openalex
+Alyssa Smith,0009-0008-9695-9086,orcid
+Alessandro Flammini,0000-0003-1670-9156,orcid
+Alexander C. Nwala,0000-0003-3408-791X,openalex
+Albert-László Barabási,0000-0002-4028-3522,orcid
+Danaja Maldeniya,0000-0002-3184-1529,orcid
+Cyrus Samii,0000-0002-0823-1319,orcid
+Daniel M. Romero,0000-0002-8351-3463,orcid
+Duncan J. Watts,0000-0002-2150-9610,orcid
+Filippo Menczer,0000-0003-4384-2876,orcid
+Wouter van Atteveldt,0000-0003-1237-538X,orcid
+Simon Lindgren,0000-0001-6289-9427,orcid
+Rebecca Eynon,0000-0002-2074-5486,orcid
+Zack W. Almquist,0000-0002-1967-123X,orcid
+Yifang Ma,0000-0003-0326-7993,orcid
+Siân Brooke,0000-0001-7558-7924,openalex
+Tiziano Piccardi,0000-0001-9314-1440,orcid
+Kristina Lerman,0000-0002-5071-0575,orcid
+Kai-Cheng Yang,0009-0006-0639-5180,orcid
+Laura K. Nelson,0000-0001-8948-300X,orcid
+Alex Madaras,None,openalex
+Caleb Ziems,0000-0002-2792-6298,orcid
+Hana Chalmers,0000-0001-5839-9593,orcid
+Ching Jin,0000-0001-7129-8092,orcid
+Wojtek Przepiorka,0000-0001-9432-8696,orcid
+Márton Karsai,0000-0001-5382-8950,orcid
+Andres Gomez-Lievano,0000-0001-8320-0857,orcid
+Andreas Jungherr,0000-0003-2598-2453,orcid
+Munmun De Choudhury,0000-0001-5429-468X,orcid
+Claudio J. Tessone,0000-0001-7733-6221,orcid
+Johanna Walker,0000-0003-0612-3960,orcid
+Fariba Karimi,0000-0002-6107-4826,orcid
+Raffaele Cristodaro,0000-0002-3062-7635,orcid
+Elena Simperl,0000-0003-1722-947X,orcid
+Martin Hilbert,0000-0003-0809-6361,orcid
+Rense Corten,0000-0001-8154-9393,orcid
+Callie Graham,0000-0002-1067-7643,orcid
+Robin A. Lange,0000-0001-8184-5221,fix
+Nabeel Gillani,0000-0002-2785-0502,orcid
+Ryan J. Gallagher,0000-0003-3040-4500,openalex
+Xindi Wang,0000-0002-6548-3547,orcid
+Katrin Weller,0000-0003-3799-1146,orcid
+Helen Margetts,0000-0003-4597-8283,orcid
+Taha Yasseri,0000-0002-1800-6094,orcid
+Neave O’Clery,0000-0003-1876-8002,openalex
+Marc Keuschnigg,0000-0001-5774-1553,orcid
+Marco Dehnert,0000-0002-7456-0743,orcid
+Hang-Hyun Jo,0000-0002-4214-9204,orcid
+Marcos Oliveira,0000-0002-0718-2973,orcid
+Martin Arvidsson,0000-0003-4648-2829,orcid
+Petter Holme,0000-0003-2156-1096,orcid
+Adina Gitomer,0000-0001-8250-2386,orcid
+Dirk Hovy,0000-0002-4618-3127,orcid
+Ralph Schroeder,0000-0002-4080-9264,orcid
+Johannes Wachs,0000-0002-9044-2018,orcid
+Cristian Candia,0000-0002-9654-543X,orcid
+P. M. Aronow,0000-0002-4449-0756,orcid
+Diyi Yang,0000-0003-1220-3983,orcid
+Gonzalo Rivero,0000-0003-3452-7823,orcid
+Luis-Daniel Ibáñez,0009-0000-0043-531X,orcid
+Eduardo G. Altmann,0000-0002-1932-3710,orcid
+Laura Alessandretti,0000-0001-6003-1165,orcid
+Cosmina Dorobantu,0000-0001-7903-4796,orcid
+Jan Globisz,0009-0002-2601-3961,orcid
+Peter Hedström,0000-0003-1102-4342,orcid
+Marijn A. Keijzer,0000-0002-7585-062X,orcid
+Flávio L. Pinheiro,0000-0002-0561-9641,orcid
+Courtney Allen,0009-0002-9979-4877,orcid
+Margot Gerondeau,0009-0002-0726-1580,orcid
+Larissa Doroshenko,0000-0001-6763-628X,orcid
+Robert West,0000-0002-1835-8874,orcid
+Viktoria Spaiser,0000-0002-5892-245X,orcid
+Sune Lehmann,0000-0001-6099-2345,orcid
+Indira Sen,0000-0003-3475-0371,orcid
+Mikko Kivelä,0000-0003-2049-1954,orcid
+Jari Saramäki,0000-0002-5904-4062,orcid
+Balazs Vedres,0000-0002-9469-8774,orcid
+Emma S. Spiro,0000-0002-6792-3390,orcid
+Federico Botta,0000-0002-5681-4535,orcid
+David J. Harding,0000-0001-8339-0048,orcid
+Vincent Buskens,0000-0002-4483-7238,orcid
+Daniel Gayo-Avello,0000-0002-4705-6891,orcid
+Delia Baldassarri,0000-0002-9264-035X,orcid
+Luca Maria Aiello,0000-0002-0654-2527,orcid
+Joshua Aaron Becker,0000-0002-3054-2447,openalex
+Gerardo Iñiguez,0000-0001-7181-5520,orcid
+Benjamin F. Jarvis,0000-0001-8127-4051,orcid
+János Kertész,0000-0003-4957-5406,orcid
+Onur Varol,0000-0002-3994-6106,orcid
